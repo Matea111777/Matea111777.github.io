@@ -1,0 +1,203 @@
+body
+{
+    background-image: url("img/bg.jpg");
+    background-size: 1350px;
+    background-position: center;
+    height: 675px;
+    background-repeat:no-repeat ;
+    font-family: "Comic Sans MS";
+}
+#container
+{
+    background-color: rgba(136, 154, 156, 0.70);
+    height: 555px;
+    width:1000px;
+    border-radius: 10px;
+    margin-top: 100px;
+    margin-left: 170px;
+    box-shadow: 10px 10px 5px rgba(64,67,68,0.94);
+
+}
+header
+{
+
+    font-weight: bold;
+    font-size: 20px;
+
+}
+#menu ul
+{
+    list-style-type: none;
+    padding-top: 20px;
+}
+#menu ul li
+{
+    float: left;
+    padding: 10px;
+    border-right: 2px solid rgba(215,216,218,0.94);
+}
+#menu ul li:last-of-type
+{
+    border: none;
+
+}
+#menu ul a
+{
+    color: rgba(215,216,218,0.94);
+    text-decoration: none;
+    padding: 10px;
+}
+#menu ul a:hover
+{
+    background-color: rgba(87,92,94,0.94);
+    border-radius:5px ;
+}
+
+footer
+{
+    font-size: 12px;
+    font-weight: bold;
+    margin-left: 300px;
+    float: left;
+    width: 1000px;
+    margin-top: -30px;
+
+}
+footer ul
+{
+    list-style-type: none;
+    margin-top: -50px;
+    margin-left: -100px;
+
+}
+footer ul li
+{
+    float: left;
+    padding: 7px;
+
+}
+footer ul a
+{
+    color: rgba(215,216,218,0.94);
+    text-decoration: none;
+    padding: 7px;
+}
+footer ul a:hover
+{
+    background-color: rgba(87,92,94,0.94);
+    border-radius:5px ;
+}
+footer p
+{
+    font-size: 15px;
+    float: left;
+    margin-top: 5px;
+    color: rgba(215,216,218,0.94);
+
+}
+.person2
+{
+    float: left;
+    margin-top: -480px;
+    margin-left: 400px;
+}
+#cloud1
+{
+    float: left;
+    margin-top: -500px;
+    margin-left: 160px;
+}
+#cloud1 p
+{
+
+    margin-top: -130px;
+    margin-left: 80px;
+    width: 200px;
+    height: 200px;
+    color: rgba(70,86,88,0.94);
+    text-align: center;
+    font-size: 20px;
+}
+#cloud2
+{
+    float: left;
+    margin-top: -300px;
+    margin-left: 160px;
+}
+#cloud2 p
+{
+
+    margin-top: -150px;
+    margin-left: 80px;
+    width: 200px;
+    height: 200px;
+    color: rgba(70,86,88,0.94);
+    text-align: center;
+    font-size: 20px;
+}
+#cloud3
+{
+    float: left;
+    margin-top: -500px;
+    margin-left: 760px;
+}
+#cloud3 p
+{
+
+    margin-top: -150px;
+    margin-left: 90px;
+    width: 200px;
+    height: 200px;
+    color: rgba(70,86,88,0.94);
+    text-align: center;
+    font-size: 20px;
+}
+#cloud4
+{
+    float: left;
+    margin-top: -300px;
+    margin-left: 760px;
+}
+#cloud4 p
+{
+
+    margin-top: -150px;
+    margin-left: 90px;
+    width: 200px;
+    height: 200px;
+    color: rgba(70,86,88,0.94);
+    text-align: center;
+    font-size: 20px;
+}
+#shape1
+{
+    width: 80px;
+    height: 80px;
+    background-color: rgba(255,174,173,0.94);
+    border-radius: 50px;
+    float: left;
+    margin-top: -450px;
+    margin-left: 460px;
+}
+#shape2
+{
+    width: 80px;
+    height: 80px;
+    background-color: rgba(215,216,218,0.94);
+    border-radius: 50px;
+    float: left;
+    margin-top: -130px;
+    margin-left: 500px;
+
+}
+#shape3
+{
+    width: 80px;
+    height: 80px;
+    background-color: rgba(117,114,116,0.94);
+    border-radius: 50px;
+    float: left;
+    margin-top: -470px;
+    margin-left: 720px;
+
+}
